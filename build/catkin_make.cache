@@ -1,0 +1,2 @@
+controls/hexbot:controls/hexbot_moveit_config:controls/moveit_config:controls/opencv_tut
+-DCATKIN_DEVEL_PREFIX=/home/janak/final_ws/devel -DCMAKE_INSTALL_PREFIX=/home/janak/final_ws/install -G Unix Makefiles
